@@ -33,7 +33,6 @@ function load_peeringdb_data() {
                 }
             })
     }
-
     let peer_asn = document.getElementById("form-peer-asn").value;
     if (peer_asn !== undefined) {
         fetch("https://www.peeringdb.com/api/net?asn=" + peer_asn)
