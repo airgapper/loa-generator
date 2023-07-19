@@ -1,3 +1,2 @@
 # LoA Generator
-
-https://natesales.net/loa-generator
+https://pop.bgpvps.com/loa/
